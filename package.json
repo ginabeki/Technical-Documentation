@@ -1,0 +1,22 @@
+{
+  "name": "technical-documentation",
+  "version": "1.0.0",
+  "description": "Technical-Documentation",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass SASS/main.scss CSS/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginabeki/Technical-Documentation.git"
+  },
+  "author": "Gina Beki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginabeki/Technical-Documentation/issues"
+  },
+  "homepage": "https://github.com/ginabeki/Technical-Documentation#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}

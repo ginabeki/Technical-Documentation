@@ -1,0 +1,45 @@
+// COLORS
+$color-turquoise: #40e0d0;
+$color-canary: #fffd98;
+$color-oxford-blue: #000022;
+$color-dark-lava: #493b2a;
+$color-rusty-red: #de3c4b;
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.6;
+}
+html {
+  scroll-behavior: smooth;
+  font-size: 0.9rem;
+}
+code {
+  font-family: monospace, "courier new";
+  display: block;
+  color: crimson;
+  background-color: #f1f1f1;
+  text-align: left;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.header {
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+header {
+  color: black;
+  padding: 8px 16px;
+  font-weight: bold;
+  text-align: left;
+  font-size: 1.4rem;
+}

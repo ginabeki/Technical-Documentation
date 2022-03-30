@@ -11,19 +11,35 @@ $color-rusty-red: #de3c4b;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
-  line-height: 1.4;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.6;
 }
 html {
   scroll-behavior: smooth;
-  width: 100%;
-  background-color: #40e0d0;
-  height: 100%;
+  font-size: 0.9rem;
+}
+code {
+  font-family: monospace, "courier new";
+  display: block;
+  color: crimson;
+  background-color: #f1f1f1;
+  text-align: left;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.header {
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 header {
-  color: white;
+  color: black;
   padding: 8px 16px;
-  // text-align: center;
-  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: left;
+  font-size: 1.4rem;
 }

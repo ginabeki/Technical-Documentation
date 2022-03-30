@@ -4,7 +4,7 @@
   "description": "Technical-Documentation",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "compile:sass": "node-sass SASS/main.scss CSS/style.css -w"
   },
   "repository": {
     "type": "git",

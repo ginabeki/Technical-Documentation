@@ -23,3 +23,5 @@ Clone the repo by running
 
 ## Contributing
 To contribute to this project, clone this repo locally and commit your code on a separate branch.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6118b7ed-226a-4bfe-95a9-7afcb6ae2d99/deploy-status)](https://app.netlify.com/sites/technical-documentation-project/deploys)
